@@ -25,9 +25,9 @@ const jobs = [
   },
   {
     title: "Landing Loja integrada 2025",
-    image: "/jobs-images/komea.png",
+    image: "/jobs-images/lp-2025.png",
     description: "Uma Landing Page para divulgação de novas funcionalidades que chegaram na loja integrada em 2025, codada por mim apartir de um figma fornecido por eles.",
-    link: "https://komea.com.br",
+    link: "https://landing.lojaintegrada.com.br/lp-2025",
   }
 ];
 
