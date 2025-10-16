@@ -11,6 +11,7 @@ export default function Home() {
         <div>
           <h1 className="xl:text-[2vw] text-center xl:text-left">Eduardo Balbinot</h1>
           <p className="xl:text-[1vw] text-center xl:text-left">Desenvolver Web FullStack</p>
+          <p className="xl:hidden xl:text-[1vw] text-center xl:text-left">eduardo.balbinot.dev@gmail.com</p>
         </div>
         <div className="relative mt-12 xl:mt-28">
           <Image 
